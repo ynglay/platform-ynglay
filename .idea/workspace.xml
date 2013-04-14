@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e2ae28-ff3c-471e-b253-6e9e597aae0c" name="Default" comment="" />
+    <ignored path="gameplatform.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/fragment.js2" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365779749737" ignored="false" />
+    <file path="$PROJECT_DIR$/../FireFlyTest/src/FireFlyTest.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363392185873" ignored="false" />
+    <file path="/FireFlyTest.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363392184139" ignored="false" />
+    <file path="/fragment.java" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365760541248" ignored="false" />
+    <file path="/PoolObjectFactory.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363393114382" ignored="false" />
+    <file path="/Pool.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365251467271" ignored="false" />
+    <file path="/IPoolObject.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363461688520" ignored="false" />
+    <file path="/Vector2.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363429627453" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/FirstGameWithPlatform.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363462581281" ignored="false" />
+    <file path="/FirstGameWithPlatform.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363463892005" ignored="false" />
+    <file path="$PROJECT_DIR$/out/production/gameplatform/gameplatform.swc!/catalog.xml" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363462025382" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/Main.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761300417" ignored="false" />
+    <file path="/GameConfig.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365244234393" ignored="false" />
+    <file path="/GameBase.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365518423763" ignored="false" />
+    <file path="/Main.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365776833629" ignored="false" />
+    <file path="/IScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365249616590" ignored="false" />
+    <file path="/ScreenBase.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365525032925" ignored="false" />
+    <file path="/IGame.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365250911212" ignored="false" />
+    <file path="D:/Works/_workspaces/as_idea/TestProject/.idea/workspace.xml" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363941725896" ignored="false" />
+    <file path="/GameState.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365513984927" ignored="false" />
+    <file path="/AssetsManager.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365700899915" ignored="false" />
+    <file path="/a.dummy" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764557420" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/core/MyGame.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364819805270" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/core/screens/LoadingScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364463560806" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/core/screens/MenuScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365246979906" ignored="false" />
+    <file path="/MenuScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365763651309" ignored="false" />
+    <file path="/MyGame.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365579701375" ignored="false" />
+    <file path="/LoadingScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364463560806" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/Main-app.xml" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365618983357" ignored="false" />
+    <file path="/Main-app.xml" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365618983357" ignored="false" />
+    <file path="/TextureManager.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365618860208" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/assets/Assets.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761255537" ignored="false" />
+    <file path="/fragment.js" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365527358805" ignored="false" />
+    <file path="/TextureCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363704459465" ignored="false" />
+    <file path="/ITextureCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363704292268" ignored="false" />
+    <file path="/AssetsLoader.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363801920536" ignored="false" />
+    <file path="/TextureLoader.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365700533848" ignored="false" />
+    <file path="/TextureAtlasLoader.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365580027795" ignored="false" />
+    <file path="/IAssetLoader.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365172828662" ignored="false" />
+    <file path="/AssetsLoadingEvent.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365245500912" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/core/screens/SplashScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364463577590" ignored="false" />
+    <file path="/SplashScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365779417020" ignored="false" />
+    <file path="/Assets.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365778007859" ignored="false" />
+    <file path="/AssetsRegistrator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363970959840" ignored="false" />
+    <file path="/IAssetsRegistrator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1363970938784" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/assets/registrators/MainAssetsRegistrator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364463842670" ignored="false" />
+    <file path="/MainAssetsRegistrator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364395732023" ignored="false" />
+    <file path="/ScreenEvent.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365517248692" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/core/screens/AboutScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365233556233" ignored="false" />
+    <file path="/AboutScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365763622178" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/resources/graphics/menu_spritesheet.xml" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364373906709" ignored="false" />
+    <file path="/IAssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364827505803" ignored="false" />
+    <file path="/AssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364395140563" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/assets/registrators/GameAssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364479274404" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/assets/registrators/MenuAssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364479215665" ignored="false" />
+    <file path="/MenuAssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365669130028" ignored="false" />
+    <file path="/GameAssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365619840291" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/core/screens/GameScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365428764682" ignored="false" />
+    <file path="/GameScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365763632321" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/game/SmallBug.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761300417" ignored="false" />
+    <file path="/SmallBug.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365763742466" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/game/factories/BugFactory.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364480529689" ignored="false" />
+    <file path="/BugFactory.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364480564914" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/game/factories/SmallBugFactory.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761300417" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/resources/graphics/game_spritesheet.xml" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364482870980" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/.idea/workspace.xml" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365672668879" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/.idea/ant.xml" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364565107434" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/.idea/misc.xml" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364566857412" ignored="false" />
+    <file path="/SmallBugFactory.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364568859136" ignored="false" />
+    <file path="/LogUtil.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364816044468" ignored="false" />
+    <file path="/SoundLoader.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365174789069" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/assets/creators/GameAssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761300417" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/assets/creators/MenuAssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761300417" ignored="false" />
+    <file path="/SoundManager.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365603878822" ignored="false" />
+    <file path="/SoundEffect.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365580228895" ignored="false" />
+    <file path="/AssetsCreatorBase.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365601835604" ignored="false" />
+    <file path="/File Header.txt.ft" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364908187557" ignored="false" />
+    <file path="/ActionScript File Header.txt.ft" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1364974417056" ignored="false" />
+    <file path="/SoundEffectType.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365158104545" ignored="false" />
+    <file path="/AssetLoaderBase.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365175984865" ignored="false" />
+    <file path="/Dialog.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365428588340" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/game/MyGame.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365763555211" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/components/screens/GameScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365763548789" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/components/screens/LoadingScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761300417" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/components/screens/AboutScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761300417" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/components/screens/MenuScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761300417" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/components/screens/SplashScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761300417" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/components/QuestionDialog.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761300417" ignored="false" />
+    <file path="/QuestionDialog.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365519266147" ignored="false" />
+    <file path="/ScreenNavigator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365674233828" ignored="false" />
+    <file path="/ScreenNavigatorItem.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365581286222" ignored="false" />
+    <file path="/Texture.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365579882176" ignored="false" />
+    <file path="/TextureAtlas.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365580056710" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/consts/AssetName.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761256704" ignored="false" />
+    <file path="/AssetName.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365619657867" ignored="false" />
+    <file path="/DialogBase.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365670787299" ignored="false" />
+    <file path="/ScreenNavigationItem.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365671916188" ignored="false" />
+    <file path="/platform-ynglay.iml" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365760380918" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/components/DialogBase.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/assets/loaders/TextureLoader.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/events/ScreenEvent.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761057718" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/assets/loaders/SoundLoader.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/core/screens/ScreenBase.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/pool/Pool.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761057718" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/assets/loaders/TextureAtlasLoader.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/audio/SoundManager.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/events/AssetsLoadingEvent.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/core/GameBase.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/assets/loaders/AssetLoaderBase.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/components/ScreenNavigator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/pool/IPoolObject.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/audio/SoundEffect.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/textures/TextureManager.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/core/IGame.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/assets/supportClasses/IAssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/assets/supportClasses/AssetsCreatorBase.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/pool/IPoolObjectFactory.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/geom/Vector2.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365760549183" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/consts/SoundEffectType.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/consts/GameState.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/config/GameConfig.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/core/screens/IScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/ynglay/games/components/ScreenNavigationItem.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764171415" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/ynglay/games/firsttest/assets/creators/GameAssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761380876" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/ynglay/games/firsttest/assets/creators/MenuAssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761380876" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/ynglay/games/firsttest/assets/Assets.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761380876" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/SSS.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365761414563" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/assets/Assets.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365778035330" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/assets/creators/GameAssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365763561359" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/assets/creators/MenuAssetsCreator.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764559524" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/Main.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365776833629" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/components/QuestionDialog.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764559524" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/components/screens/GameScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764559524" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/components/screens/LoadingScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764559524" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/components/screens/AboutScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764559524" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/components/screens/MenuScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764559524" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/components/screens/SplashScreen.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365779488832" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/consts/AssetName.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764559524" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/MyGame.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764559524" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/game/factories/SmallBugFactory.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764559524" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/com/ynglay/games/firsttest/game/SmallBug.as" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365764559524" ignored="false" />
+    <file path="$PROJECT_DIR$/../FirstGameWithPlatform/src/resources/graphics/sprites.xml" changelist="04e2ae28-ff3c-471e-b253-6e9e597aae0c" time="1365779369154" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="gameplatform" />
+    <favorites_list name="paltform-ynglay" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="IAssetLoader.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ynglay/games/assets/loaders/IAssetLoader.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="17" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssetsManager.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ynglay/games/assets/AssetsManager.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="6" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.019296255">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/games/geom/Vector2.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/pool/IPoolObject.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/assets/loaders/SoundLoader.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/components/DialogBase.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/core/screens/ScreenBase.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/core/GameBase.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/events/ScreenEvent.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/textures/TextureManager.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/audio/SoundManager.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/components/ScreenNavigationItem.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/components/ScreenNavigator.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/assets/loaders/AssetLoaderBase.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/assets/loaders/TextureLoader.as" />
+        <option value="$PROJECT_DIR$/src/com/company/games/assets/AssetsManager.as" />
+        <option value="$PROJECT_DIR$/platform-ynglay.iml" />
+        <option value="$PROJECT_DIR$/src/com/ynglay/games/assets/AssetsManager.as" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paltform-ynglay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paltform-ynglay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform-ynglay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paltform-ynglay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform-ynglay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="games" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="project.structure.side.proportion" value="0.23699424" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="gameplatform" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
+      <recent name="com.company.games.textures" />
+      <recent name="com.company.games.components" />
+      <recent name="com.company.games" />
+      <recent name="com.company.games.assets.loaders" />
+      <recent name="com.company.games.consts" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ynglay" />
+      <recent name="com.company.games" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rzarich\Dropbox\Programms\gameplatform\src\com\company\games\assets\loaders" />
+      <recent name="C:\Users\rzarich\Dropbox\Programms\gameplatform\src\com\company\games\assets" />
+      <recent name="C:\Users\rzarich\Dropbox\Programms\gameplatform\src\com\company\games\core\screens" />
+      <recent name="C:\Users\rzarich\Dropbox\Programms\gameplatform\src\com\company\games\consts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e2ae28-ff3c-471e-b253-6e9e597aae0c" name="Default" comment="" />
+      <created>1363391534027</created>
+      <updated>1363391534027</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.49839914" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.49411765" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19370331" sideWeight="0.6703418" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.49786553" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.49786553" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.6703418" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$PROJECT_DIR$/src/com/ynglay/games/assets/loaders/IAssetLoader.as</url>
+          <line>47</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$PROJECT_DIR$/src/com/ynglay/games/events/AssetsLoadingEvent.as</url>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$PROJECT_DIR$/src/com/ynglay/games/components/ScreenNavigator.as</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$PROJECT_DIR$/src/com/ynglay/games/core/screens/ScreenBase.as</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$PROJECT_DIR$/src/com/ynglay/games/core/GameBase.as</url>
+          <line>62</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/ynglay/games/assets/loaders/TextureLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="22" selection-start="2086" selection-end="2093" vertical-scroll-proportion="0.57733816">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ynglay/games/assets/loaders/AssetLoaderBase.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="22" selection-start="1081" selection-end="1126" vertical-scroll-proportion="0.8400703">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="62" selection-start="410" selection-end="410" vertical-scroll-proportion="0.21177803" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform-ynglay.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="37" selection-start="908" selection-end="908" vertical-scroll-proportion="0.34733257" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/ant.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="69" selection-start="163" selection-end="163" vertical-scroll-proportion="0.13507378" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/flexCompiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="50" selection-start="272" selection-end="272" vertical-scroll-proportion="0.17366628" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.1751152" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.4101382" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace (skovoridka's conflicted copy 2013-03-28).xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="56" selection-start="1830" selection-end="1830" vertical-scroll-proportion="0.3329493" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/scopes/scope_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="40" selection-start="111" selection-end="111" vertical-scroll-proportion="0.07718502" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ynglay/games/assets/loaders/IAssetLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ynglay/games/assets/AssetsManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="6" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.019296255">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Starling 1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23699424" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Flex4.6_AIR3.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23699424" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>platform-ynglay</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23699424" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Flex4.6_AIR3.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Starling 1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23699424" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

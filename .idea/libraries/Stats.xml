@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Stats" type="flex">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Libs/Stats/src" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

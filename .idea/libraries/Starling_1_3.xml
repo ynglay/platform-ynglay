@@ -1,9 +1,7 @@
 <component name="libraryTable">
   <library name="Starling 1.3" type="flex">
     <CLASSES>
-      <root url="file://D:/Install/Programming/Flex/Gaming/Starling-Framework-v1.3-0/starling/src" />
-      <root url="file://D:/Install/Programming/Gaming/Starling-Framework-v1.3-0/starling/src" />
-      <root url="file://D:/rzarich/Utils/Gaming/Starling-Framework-master/starling/src" />
+      <root url="jar://$PROJECT_DIR$/../../../Libs/Starling-1.3/starling/bin/starling.swc!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -68,11 +68,19 @@ public class SoundLoader extends AssetLoaderBase implements IAssetLoader
     }
 
     /*
+     * Create object from asset.
+     */
+    override public function getFromAsset():*
+    {
+        return getSoundEffect();
+    }
+
+    /*
      * Create <code>SoundEffect</code> object from the loaded asset.
      *
      * @return SoundEffect
-     */
-    override public function getFromAsset():*
+     * */
+    protected function getSoundEffect():SoundEffect
     {
         return new SoundEffect(loader, type);
     }
@@ -111,7 +119,7 @@ public class SoundLoader extends AssetLoaderBase implements IAssetLoader
         // dispatch event sound file is loaded
         dispatchEvent(new AssetsLoadingEvent(AssetsLoadingEvent.COMPLETE));
 
-        trace("[SoundLoader] Loaded sound asset: name='" + id + ", path='" + path + "', loadingTime=" +
+        trace("[YNGLAY] Loaded sound asset: name='" + id + ", path='" + path + "', loadingTime=" +
                 (endTime - startTime).toString() + "ms.");
     }
 
@@ -131,7 +139,7 @@ public class SoundLoader extends AssetLoaderBase implements IAssetLoader
      */
     protected function onLoadingErrorHandler(event:IOErrorEvent):void
     {
-        trace("[SoundLoader] Error during loading sound asset: name='" + id + ", path='" + path + "'.");
+        trace("[YNGLAY] Error during loading sound asset: name='" + id + ", path='" + path + "'.");
         removeListeners();
     }
 }

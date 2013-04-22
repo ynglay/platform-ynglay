@@ -30,7 +30,7 @@ public class TextureAtlasLoader extends TextureLoader implements IAssetLoader
     /*
      * Loader to load xml file.
      */
-    private var xmlLoader:URLLoader;
+    protected var xmlLoader:URLLoader;
 
     /*
      * Constructor.
@@ -73,11 +73,19 @@ public class TextureAtlasLoader extends TextureLoader implements IAssetLoader
     }
 
     /*
-     * Create <code>TextureAtlas</code> object from the loaded image asset and xml file.
-     *
-     * @return TextureAtlas
+     * Create object from assets.
      */
     override public function getFromAsset():*
+    {
+        return getTextureAtlas();
+    }
+
+    /*
+     * Create <code>TextureAtlas</code> object from the loaded image asset and xml file.
+     *
+     * @return Texture
+     * */
+    protected function getTextureAtlas():TextureAtlas
     {
         var texture:Texture = super.getFromAsset() as Texture;
         var xml:XML = new XML(xmlLoader.data);
@@ -146,7 +154,7 @@ public class TextureAtlasLoader extends TextureLoader implements IAssetLoader
         _xmlLoadingPercentage = 0.5;
         // dispatch event assets are loaded
         dispatchEvent(new AssetsLoadingEvent(AssetsLoadingEvent.COMPLETE));
-        trace("[TextureAtlasLoader] Texture atlas loaded: name='" + id + ", path='" + path + "', xmlPath='" + xmlPath +
+        trace("[YNGLAY] Asset loaded: name='" + id + ", path='" + path + "', xmlPath='" + xmlPath +
                 "', loadingTime=" + (endTime - startTime).toString() + "ms.");
     }
 
@@ -167,7 +175,7 @@ public class TextureAtlasLoader extends TextureLoader implements IAssetLoader
     {
         removeListeners();
 
-        trace("[TextureAtlasLoader] Error during loading xml asset: name=" + id + ", path=" + xmlPath);
+        trace("[YNGLAY] Error during loading xml asset: name=" + id + ", path=" + xmlPath);
     }
 }
 }

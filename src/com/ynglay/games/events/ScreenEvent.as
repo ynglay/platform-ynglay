@@ -25,23 +25,30 @@ public class ScreenEvent extends Event
     public static const CHANGED:String = "changed";
 
     /*
-    * Defines the game state.
+    * Defines the new game state.
     * */
-    public var state:String;
+    public var newState:String;
+
+    /*
+     * Defines the old game state.
+     * */
+    public var oldState:String;
 
     /*
     * Constructor.
     *
     * @param type The type of event.
-    * @param state The game state. Use <code>GameState</code> class with different types of the game state.
+    * @param newState The new game state. Use <code>GameState</code> class with different types of the game state.
+    * @param oldState The old game state. Use <code>GameState</code> class with different types of the game state.
     * @param bubbles Indicates whether an event is a bubbling event.
-    * @param cancelable Indicates whether the behavior associated with the event can be prevented.
+    * @param data Additional data.
     * */
-    public function ScreenEvent(type:String, state:String = "", bubbles:Boolean = false, data:Object = null)
+    public function ScreenEvent(type:String, newState:String = "", oldState:String = "", bubbles:Boolean = false, data:Object = null)
     {
         super(type, bubbles, data);
 
-        this.state = state;
+        this.newState = newState;
+        this.oldState = oldState;
     }
 }
 }

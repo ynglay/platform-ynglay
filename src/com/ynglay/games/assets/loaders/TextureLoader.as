@@ -63,11 +63,19 @@ public class TextureLoader extends AssetLoaderBase implements IAssetLoader
     }
 
     /*
+     * Create object from assets.
+     */
+    override public function getFromAsset():*
+    {
+        return getTexture();
+    }
+
+    /*
      * Create <code>Texture</code> object from the loaded asset.
      *
      * @return Texture
-     */
-    override public function getFromAsset():*
+     * */
+    protected function getTexture():Texture
     {
         return Texture.fromBitmap(loader.content as Bitmap);
     }
@@ -80,7 +88,6 @@ public class TextureLoader extends AssetLoaderBase implements IAssetLoader
         loader.unload();
         loader = null;
     }
-
     /*
      * Remove event listeners from the loader.
      */
@@ -105,7 +112,7 @@ public class TextureLoader extends AssetLoaderBase implements IAssetLoader
 
         // dispatch event texture file is loaded
         dispatchEvent(new AssetsLoadingEvent(AssetsLoadingEvent.COMPLETE));
-        trace("[TextureLoader] Loaded texture asset: name='" + id + ", path='" + path + "', loadingTime=" + (endTime - startTime).toString() + "ms.");
+        trace("[YNGLAY] Loaded texture asset: name='" + id + ", path='" + path + "', loadingTime=" + (endTime - startTime).toString() + "ms.");
     }
 
     /*
@@ -125,7 +132,7 @@ public class TextureLoader extends AssetLoaderBase implements IAssetLoader
     protected function onImageLoadingErrorHandler(event:IOErrorEvent):void
     {
         removeListeners();
-        trace("[TextureLoader] Error during loading texture asset: id='" + id + ", path='" + path + ".");
+        trace("[YNGLAY] Error during loading texture asset: id='" + id + ", path='" + path + ".");
     }
 }
 }

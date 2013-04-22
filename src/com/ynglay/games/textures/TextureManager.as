@@ -122,10 +122,6 @@ public class TextureManager
             textureAtlases[id].dispose();
             delete textureAtlases[id];
         }
-        else
-        {
-            throw new Error("Texture atlas '" + id + "' can't be removed because it has not been added in the texture manager.");
-        }
     }
 
     /*
@@ -155,7 +151,7 @@ public class TextureManager
             else if (textureAtlases.hasOwnProperty(id))
                 removeTextureAtlas(id);
             else
-                trace("[TextureManager] Texture with '" + id + "' isn't created and added to texture manager.");
+                trace("[YNGLAY] Texture with '" + id + "' isn't created and added to texture manager.");
         }
     }
 }

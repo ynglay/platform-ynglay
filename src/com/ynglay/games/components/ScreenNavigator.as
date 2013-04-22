@@ -195,11 +195,11 @@ public class ScreenNavigator extends Sprite
         _currentScreen.prepareScreenData();
         _currentScreen.initialize();
 
+        dispatchEvent(new ScreenEvent(ScreenEvent.CHANGED, _currentScreenId, fromScreen ? fromScreen.state : ""));
+
         // remove the previous screen
         toScreen = null;
         removePrevScreen();
-
-        dispatchEvent(new ScreenEvent(ScreenEvent.CHANGED, _currentScreenId));
     }
 
     /*
@@ -240,7 +240,7 @@ public class ScreenNavigator extends Sprite
     * */
     private function onScreenChangeHandler(event:ScreenEvent):void
     {
-        show(event.state);
+        show(event.newState);
     }
 }
 }

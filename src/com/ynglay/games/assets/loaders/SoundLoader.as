@@ -119,7 +119,7 @@ public class SoundLoader extends AssetLoaderBase implements IAssetLoader
         // dispatch event sound file is loaded
         dispatchEvent(new AssetsLoadingEvent(AssetsLoadingEvent.COMPLETE));
 
-        trace("[YNGLAY] Loaded sound asset: name='" + id + ", path='" + path + "', loadingTime=" +
+        trace("[SoundLoader] Loaded sound asset: name='" + id + ", path='" + path + "', loadingTime=" +
                 (endTime - startTime).toString() + "ms.");
     }
 
@@ -139,7 +139,7 @@ public class SoundLoader extends AssetLoaderBase implements IAssetLoader
      */
     protected function onLoadingErrorHandler(event:IOErrorEvent):void
     {
-        trace("[YNGLAY] Error during loading sound asset: name='" + id + ", path='" + path + "'.");
+        trace("[SoundLoader] Error during loading sound asset: name='" + id + ", path='" + path + "'.");
         removeListeners();
     }
 }

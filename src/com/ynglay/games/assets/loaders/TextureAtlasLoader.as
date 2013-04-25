@@ -154,7 +154,7 @@ public class TextureAtlasLoader extends TextureLoader implements IAssetLoader
         _xmlLoadingPercentage = 0.5;
         // dispatch event assets are loaded
         dispatchEvent(new AssetsLoadingEvent(AssetsLoadingEvent.COMPLETE));
-        trace("[YNGLAY] Asset loaded: name='" + id + ", path='" + path + "', xmlPath='" + xmlPath +
+        trace("[TextureAtlasLoader] Texture atlas loaded: name='" + id + ", path='" + path + "', xmlPath='" + xmlPath +
                 "', loadingTime=" + (endTime - startTime).toString() + "ms.");
     }
 
@@ -175,7 +175,7 @@ public class TextureAtlasLoader extends TextureLoader implements IAssetLoader
     {
         removeListeners();
 
-        trace("[YNGLAY] Error during loading xml asset: name=" + id + ", path=" + xmlPath);
+        trace("[TextureAtlasLoader] Error during loading xml asset: name=" + id + ", path=" + xmlPath);
     }
 }
 }

@@ -112,7 +112,7 @@ public class TextureLoader extends AssetLoaderBase implements IAssetLoader
 
         // dispatch event texture file is loaded
         dispatchEvent(new AssetsLoadingEvent(AssetsLoadingEvent.COMPLETE));
-        trace("[YNGLAY] Loaded texture asset: name='" + id + ", path='" + path + "', loadingTime=" + (endTime - startTime).toString() + "ms.");
+        trace("[TextureLoader] Loaded texture asset: name='" + id + ", path='" + path + "', loadingTime=" + (endTime - startTime).toString() + "ms.");
     }
 
     /*
@@ -132,7 +132,7 @@ public class TextureLoader extends AssetLoaderBase implements IAssetLoader
     protected function onImageLoadingErrorHandler(event:IOErrorEvent):void
     {
         removeListeners();
-        trace("[YNGLAY] Error during loading texture asset: id='" + id + ", path='" + path + ".");
+        trace("[TextureLoader] Error during loading texture asset: id='" + id + ", path='" + path + ".");
     }
 }
 }

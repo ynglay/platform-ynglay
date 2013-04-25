@@ -229,7 +229,7 @@ public class AssetsManager extends EventDispatcher
             _loaded = true;
             _loading = false;
 
-            trace("[YNGLAY] Total time of loading set of assets: time=" + (endTime - startTime).toString() + "ms.");
+            trace("[AssetsManager] Total time of loading set of assets: time=" + (endTime - startTime).toString() + "ms.");
             dispatchEvent(new AssetsLoadingEvent(AssetsLoadingEvent.COMPLETE));
         }
     }

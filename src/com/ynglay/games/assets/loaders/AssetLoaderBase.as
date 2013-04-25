@@ -38,13 +38,6 @@ public class AssetLoaderBase extends EventDispatcher implements IAssetLoader
      * @param id Identifier of the asset.
      * @param path Relative path of the asset.
      */
-    public function AssetLoaderBase(id:String, path:String)
-    {
-        super();
-
-        this._id = id;
-        this._path = path;
-    }
 
     /*
      * Identifier of the asset.

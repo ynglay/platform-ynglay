@@ -64,14 +64,7 @@ public class SoundEffect
      * @param sound Instance of the sound.
      * @param type Type of the sound.
      */
-    public function SoundEffect(sound:Sound, type:int)
-    {
-        if (!sound)
-            throw Error("Sound instance should be not null.");
 
-        this.sound = sound;
-        this.type = type;
-    }
 
     /**
      * Play the sound effect.
